@@ -14,7 +14,7 @@ DCGANの基本的な型
 x % bs = 0 の関係  
 ## 使用例  
 309枚のイラストを用意し、batch_sizeを103として実験を行った
-![demo](https://raw.github.com/wiki/kazaichi/dcgan/images/train_process.gif)
+![demo](https://github.com/kazaichi/dcgan.wiki.git/train_process.gif)
 ----
 
 
