@@ -14,8 +14,7 @@ DCGANの基本的な型
 (x % bs == 0)  
 ## 使用例  
 309枚のイラストを用意し、batch_size=103として実験を行った。  
-学習過程の一部をgifファイルとして載せている
-![demo](https://raw.github.com/wiki/kazaichi/dcgan/images/train_process.gif)
+学習過程の一部をgifファイルとして載せている(train_process.gif)
 ----
 
 
