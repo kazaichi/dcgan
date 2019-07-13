@@ -11,10 +11,11 @@ DCGANの基本的な型
 
 ## 使用方法  
 用意する学習データの数(x)によってbatch_size(bs)を変える必要がある。  
-(x % bs = 0)  
+(x % bs == 0)  
 ## 使用例  
-309枚のイラストを用意し、batch_sizeを103として実験を行った
-![demo](https://github.com/kazaichi/dcgan.wiki.git/images/train_process.gif)
+309枚のイラストを用意し、batch_size=103として実験を行った。  
+学習過程の一部をgifファイルとして載せている
+![demo](https://raw.github.com/wiki/kazaichi/dcgan/images/train_process.gif)
 ----
 
 
